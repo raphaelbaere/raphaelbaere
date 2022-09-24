@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Raphael Baere, currently a student!
 
-- 🌱 I’m currently learning html and css
-- 🤔 I’m looking for help with html and css
+- 🌱 I’m currently learning Web Development at Trybe!
+- 🤔 I’m looking for help with Javascript at the moment!
 - 📫 How to reach me: raphaelbaere@id.uff.br
 - 😄 Pronouns: he/him
 <div align="center">
