@@ -19,8 +19,6 @@
 </div>
   <img align="center" alt="Raphael-GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
-  <img align="center" alt="Raphael-G" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-</div>
   
   ##
  
