@@ -6,8 +6,8 @@
 - 😄 Pronouns: he/him
 <div align="center">
   <a href="https://github.com/raphaelbaere">
-  <img margin-right="20px"width="420em" height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelbaere&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="420em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelbaere&layout=compact&langs_count=7&theme=dracula"/>
+  <img margin-right="20px"width="420em" height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelbaere&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img width="420em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelbaere&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
 <div style="display: flex"><br>
   <img alt="Raphael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
