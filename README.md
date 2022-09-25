@@ -13,7 +13,7 @@
   <img alt="Raphael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Raphael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Raphael-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img alt="Raphael-Jest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-original.svg">
+  <img alt="Raphael-Jest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   <img alt="Raphael-GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
   
