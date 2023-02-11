@@ -15,8 +15,8 @@
   <img alt="Raphael-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img alt="Raphael-Jest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   <img alt="Raphael-GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img alt="Raphael-REACT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/react-original.svg">
-  <img alt="Raphael-DOCKER" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/docker-original.svg">
+  <img alt="Raphael-REACT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img alt="Raphael-DOCKER" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 </div>
   
   ##
