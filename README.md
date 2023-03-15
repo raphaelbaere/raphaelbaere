@@ -36,7 +36,9 @@
   ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 </div>
- ##
+ 
+    ##
+   
 <div> 
   <a href="https://instagram.com/raphaelbaere" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:raphaelbaere@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
