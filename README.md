@@ -10,8 +10,8 @@
   <img width="420em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelbaere&layout=compact&langs_count=7&theme=vue-dark"/>
   
   ##
-  
   ## :mega: Hard-Skills
+<div align="left">
 
 - #### Frontend
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -35,7 +35,7 @@
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-    
+</div>
  
 <div> 
   <a href="https://instagram.com/raphaelbaere" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
