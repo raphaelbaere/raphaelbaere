@@ -8,16 +8,6 @@
   <a href="https://github.com/raphaelbaere">
   <img margin-right="20px"width="420em" height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelbaere&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img width="420em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelbaere&layout=compact&langs_count=7&theme=vue-dark"/>
-</div>
-<div style="display: flex"><br>
-  <img alt="Raphael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Raphael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Raphael-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img alt="Raphael-Jest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
-  <img alt="Raphael-GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img alt="Raphael-REACT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img alt="Raphael-DOCKER" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-</div>
   
   ##
   
@@ -32,7 +22,7 @@
   
 - #### Backend
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
-  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodejs) 
+  ![Node](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node) 
 
 - #### Tests
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
@@ -45,6 +35,8 @@
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+    
+      ##
  
 <div> 
   <a href="https://instagram.com/raphaelbaere" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
