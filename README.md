@@ -31,7 +31,8 @@
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   
 - #### Backend
-  ![loading](https://img.shields.io/badge/-LOADING-333333?style=flat&logo=LOADING) 
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodejs) 
 
 - #### Tests
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
