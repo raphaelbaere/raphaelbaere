@@ -36,7 +36,6 @@
   ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
     
-      ##
  
 <div> 
   <a href="https://instagram.com/raphaelbaere" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
