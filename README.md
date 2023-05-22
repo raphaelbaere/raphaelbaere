@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Raphael Baere, currently a student!
 
 - 🌱 I’m currently learning Web Development at Trybe!
-- 🤔 I’m studying Docker at the moment!
+- 🤔 I’m studying NextJS at the moment!
 - 📫 How to reach me: raphaelbaere@id.uff.br
 - 😄 Pronouns: he/him
 <div align="center">
@@ -19,13 +19,17 @@
 - #### Frontend
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![ReactJS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   
 - #### Backend
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
+  ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize) 
+  ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma) 
   ![Node](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node) 
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) 
 
 - #### Tests
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
