@@ -19,16 +19,19 @@
 - #### Frontend
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![ReactJS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   
 - #### Backend
+  ![Node](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node) 
+  ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize) 
   ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma) 
-  ![Node](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node) 
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) 
 
 - #### Tests
