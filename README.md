@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Web Development at Trybe!
 - 🤔 I’m studying NextJS at the moment!
-- 📫 How to reach me: raphaelbaere@id.uff.br
+- 📫 How to reach me: baeredeveloper@gmail.com
 - 😄 Pronouns: he/him
 <div align="center">
   <a href="https://github.com/raphaelbaere">
