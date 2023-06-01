@@ -26,6 +26,7 @@
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   
 - #### Backend
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
   ![Node](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node) 
   ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
