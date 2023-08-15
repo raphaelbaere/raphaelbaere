@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Raphael Baere, currently a student!
 
-- 🌱 I’m currently learning Web Development at Trybe!
-- 🤔 I’m studying NextJS and Python at the moment!
+- 🤔 I’m studying C# and Python at the moment!
 - 📫 How to reach me: baeredeveloper@gmail.com
 - 😄 Pronouns: he/him
 <div align="center">
