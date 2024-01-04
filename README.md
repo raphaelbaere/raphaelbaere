@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Raphael Baere, currently a student!
 
-- 🤔 I’m studying C# and Python at the moment!
+- 🤔 I’m studying JAVA at the moment!
 - 📫 How to reach me: baeredeveloper@gmail.com
 - 😄 Pronouns: he/him
 <div align="center">
