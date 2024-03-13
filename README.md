@@ -1,6 +1,5 @@
-### Hi there 👋 I'm Raphael Baere, currently a student!
+### Hi there 👋 I'm Raphael Baere, FullStack Developer
 
-- 🤔 I’m studying JAVA at the moment!
 - 📫 How to reach me: baeredeveloper@gmail.com
 - 😄 Pronouns: he/him
 <div align="center">
